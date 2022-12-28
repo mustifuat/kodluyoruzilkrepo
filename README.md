@@ -4,7 +4,6 @@ Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-frontend-web-
 ## Installation
 Öncelikle projeyi clonelayın. 
 ```
- 
 git clone https://github.com/mustifuat/kodluyoruzilkrepo.git 
 ```
 ## Usage
@@ -12,7 +11,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
- 
 cd kodluyoruzilkrepo
 code .
 ```
